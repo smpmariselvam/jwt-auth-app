@@ -1,3 +1,9 @@
+## API Documentation
+
+Postman Documentation Link:
+https://documenter.getpostman.com/view/51023618/2sBXqNoKWU
+
+
 
 # JWT Authentication API
 
@@ -21,3 +27,6 @@ npm install
 ## Run Project
 
 npm run dev
+
+
+
